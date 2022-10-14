@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://instagram.com/satushi_aq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satushi_aq" height="30" width="40" /></a>
 </p>
-<a href="https://discord.com/channels/@me/836588774338330665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satushi_aq" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/836588774338330665" target="blank"><img align="center" src="file:///C:/Users/husey/Downloads/discord-icon-svgrepo-com.svg" alt="! Satushi#6666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
