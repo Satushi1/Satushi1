@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satushi&label=Profile%20views&color=0e75b6&style=flat" alt="satushi" /> </p>
 
-- I'm Junior Developer
+- 👨‍💻I'm Junior Developer
 
 - 🔭University Student
 
