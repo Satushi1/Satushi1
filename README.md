@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satushi</h1>
 <h3 align="center">I am from ??????</h3>
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanimation--832040099882468699%2F&psig=AOvVaw051vrdH8ohOv1rG5izNLL0&ust=1677358520407000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOj-8seFr_0CFQAAAAAdAAAAABAE)"> 
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://tr.pinterest.com/pin/animation--832040099882468699/"> 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=satushi&label=Profile%20views&color=0e75b6&style=flat" alt="satushi" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satushi&label=Profile%20views&color=0e75b6&style=flat" alt="satushi" /> </p>
 
 - 👨‍💻I'm Junior Developer
 
