@@ -2,7 +2,7 @@
 <h3 align="center">I am from ??????</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://tr.pinterest.com/pin/animation--832040099882468699/">  -->
 
-<p align="left"> <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="satushi" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="400px" height="400px" alt="satushi"  /> </p>
 
 - 👨‍💻I'm Junior Developer
 
