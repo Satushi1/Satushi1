@@ -6,7 +6,7 @@
 
 - 👨‍💻I'm software engineer
 
-- ⚡Fivem Developer
+- ⚡Backend Developer
 
 - 📄Website Developer
 
